@@ -1,2 +1,0 @@
-include ':app', ':android-pdf-viewer'
-rootProject.name='TextScanner'
